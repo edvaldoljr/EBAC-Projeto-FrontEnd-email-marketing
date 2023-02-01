@@ -70,6 +70,7 @@ Ao clicar no botão "Conhecer sobre", o usuário é redirecionado para o site da
 Estamos hospedando nosso projeto no GitPages, uma plataforma de hospedagem gratuita para projetos baseados em Git. Com GitPages, podemos compartilhar nosso trabalho com o mundo e de forma fácil e rápida. Além disso, a integração com o GitHub torna ainda mais simples o processo de desenvolvimento, teste e implantação de nossas aplicações.
 
 ## Acesso o Link e confira:
+https://edvaldoljr.github.io/Projeto-FrontEnd-email-marketing/
 
 ![](https://github.com/edvaldoljr/EBAC-Projeto-HTML-Basico/blob/main/img/HTML-BASICO-EBAC.gif?raw=true)
 
