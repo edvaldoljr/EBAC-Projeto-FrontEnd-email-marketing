@@ -1,5 +1,7 @@
 # **Projeto Email Marketing**
 
+![](https://github.com/edvaldoljr/EBAC-Projeto-HTML-Basico/blob/main/img/HTML-BASICO-EBAC.gif?raw=true)
+
 Esta é uma aplicação de e-mail marketing. A ideia é usar o e-mail como uma forma de promover sua empresa ou produto e estabelecer uma conexão com seus clientes ou potenciais clientes. A mensagem é formatada como uma tabela HTML e inclui um cabeçalho, uma imagem de destaque, um título, um corpo de texto e um botão que leva o destinatário ao site da empresa. A mensagem também inclui um rodapé com informações adicionais sobre a empresa.
 
 ## Para desenvolver uma aplicação de e-mail marketing, você precisará:
@@ -71,8 +73,6 @@ Estamos hospedando nosso projeto no GitPages, uma plataforma de hospedagem gratu
 
 ## Acesso o Link e confira:
 https://edvaldoljr.github.io/Projeto-FrontEnd-email-marketing/
-
-![](https://github.com/edvaldoljr/EBAC-Projeto-HTML-Basico/blob/main/img/HTML-BASICO-EBAC.gif?raw=true)
 
 # ⭐️ **Deixe um Star** ⭐️
 
